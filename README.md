@@ -1,5 +1,6 @@
 # Python-Algorithm-Interview
-<img src="http://image.kyobobook.co.kr/images/book/large/178/l9791189909178.jpg" width="40%" height="30%" title="파이썬 알고리즘 인터뷰"></img>
+<img src="https://image.aladin.co.kr/product/24549/58/cover500/k822631873_1.jpg" width="40%" height="30%" title="파이썬 알고리즘 인터뷰"></img>
+
 ## 1. 책 소개
 코딩 테스트와 인터뷰를 준비하는 취준생과 이직자를 위한
 알고리즘 문제 풀이 완벽 마스터!
